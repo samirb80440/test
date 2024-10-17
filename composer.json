@@ -1,0 +1,17 @@
+{
+    "name": "samir/dev",
+    "autoload": {
+        "psr-4": {
+            "Samir\\Dev\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samir",
+            "email": "samirb80440@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
