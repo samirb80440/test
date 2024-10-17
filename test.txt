@@ -1,1 +1,2 @@
 lol
+mysql -u root -p
